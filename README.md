@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WatsonViewTool::Renderer.copyright 'Your Name', 'All rights reserved'
+```
 
 ## Development
 
