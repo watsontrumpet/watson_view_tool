@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "watson_view_tool"
   spec.version       = WatsonViewTool::VERSION
   spec.authors       = ["Brian Watson"]
-  spec.email         = ["watson.trumpet@gmail.com"]
+  spec.email         = ["example@example.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
